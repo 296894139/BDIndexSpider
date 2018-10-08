@@ -61,16 +61,3 @@ PS: 像**如何运行jar**、**在哪里下载**这种问题建议自己网上�
 - 2018年03月27日
 	本代码写于2016年，首次开源，目前由于Webdriver驱动的问题，无法直接运行。后面会抽时间修复一下
 
-### 打赏
-
-<div align=center>
-<div style="display:inline-block;">
-<img src="https://songgeb.github.io/images/wechat.jpg">
-<p>微信</p>
-</div>
-
-<div style="display:inline-block;">
-<img src="https://songgeb.github.io/images/alipay.jpg">
-    <p>支付宝</p>
-</div>
-</div>
